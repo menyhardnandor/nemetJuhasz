@@ -7,7 +7,8 @@ body {
 .kutyaoldal{
     background-color: rgb(255,255,255,0.4);
     width: 70%;
-    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
     margin-inline: 20px;
     color:#4d0808;
 
